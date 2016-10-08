@@ -1,5 +1,5 @@
 <?php
             echo "This is an index file.";
-            echo "Lol";
+            echo "test";
 
 ?>
